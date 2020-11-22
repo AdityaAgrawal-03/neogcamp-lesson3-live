@@ -1,3 +1,3 @@
 hello, i am aditya agrawal.
 
-In this project, i am learning how to create mt own design component.
+In this project, i am learning how to create my own design component.
